@@ -1,3 +1,5 @@
 # hello-world
-first reo to learn repos
-just starting to use git and github, lets see this!
+my name is saret
+
+just starting to use git and github, 
+lets see this!
